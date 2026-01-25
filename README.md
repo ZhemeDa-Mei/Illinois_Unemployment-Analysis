@@ -7,6 +7,10 @@ Rather than focusing on a single statewide trend, the analysis examines whether 
 
 The goal is not to predict unemployment, but to understand which patterns are structural and which conclusions require caution.
 
+
 ## Data Source
 
-MSA-level unemployment rate data from FRED (Federal Reserve Economic Data), sourced from the U.S. Bureau of Labor Statistics.
+- Source: Federal Reserve Economic Data (FRED)
+- Dataset: Unemployment Rate by Metropolitan Statistical Area, Monthly, Smoothed Seasonally Adjusted
+- Original provider: U.S. Bureau of Labor Statistics (BLS)
+- Link: [fred.stlouisfed.org/](https://fred.stlouisfed.org/release/tables?rid=113&eid=181532#snid=181543)
