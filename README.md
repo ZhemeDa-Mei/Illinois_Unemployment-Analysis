@@ -50,9 +50,13 @@ To improve interpretability, unemployment trends are examined both over the full
   - Others show larger cyclical swings, particularly during economic downturns.
 
 - Central Tendency and Representative Cities:
+
   -Beyond extremes and volatility, some metropolitan areas appear to function as representative benchmarks of overall unemployment conditions within Illinois, though this role shifts over time.
+
   -Before the 2007–2008 financial crisis, Davenport–Moline–Rock Island frequently occupied a central position within the cross-city distribution, closely tracking the statewide average pattern.
+
   -After 2007, Chicago–Naperville–Elgin increasingly assumed this role, with its unemployment rate often aligning near the middle of the metropolitan range.
+
   -This shift suggests that the city most representative of statewide labor market conditions is not fixed, but evolves with structural and economic changes over time.
 
 ---
