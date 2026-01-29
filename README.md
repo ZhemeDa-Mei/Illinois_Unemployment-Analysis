@@ -22,9 +22,11 @@ This analysis focuses on three core questions:
 
 ## Data & Methodology
 
-- **Data source:** Federal Reserve Economic Data (FRED)
-- **Dataset:** Unemployment Rate by Metropolitan Statistical Area, Monthly, Smoothed Seasonally Adjusted
-- **Original provider:** U.S. Bureau of Labor Statistics (BLS)
+- Data source: Federal Reserve Economic Data (FRED)
+- Dataset: Unemployment Rate by Metropolitan Statistical Area, Monthly, Smoothed Seasonally Adjusted
+- Original provider: U.S. Bureau of Labor Statistics (BLS)
+- Link: [fred.stlouisfed.org/](https://fred.stlouisfed.org/release/tables?rid=113&eid=181532#snid=181543)
+
 
 The dataset contains monthly unemployment rates for selected Illinois metropolitan statistical areas (MSAs) from 1990 to 2025.
 
@@ -72,9 +74,4 @@ These differences highlight that similar peak unemployment levels can reflect ve
   Line charts and time-window visualizations used in the analysis.
 
 
-## Data Source
 
-- Source: Federal Reserve Economic Data (FRED)
-- Dataset: Unemployment Rate by Metropolitan Statistical Area, Monthly, Smoothed Seasonally Adjusted
-- Original provider: U.S. Bureau of Labor Statistics (BLS)
-- Link: [fred.stlouisfed.org/](https://fred.stlouisfed.org/release/tables?rid=113&eid=181532#snid=181543)
